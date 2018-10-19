@@ -1,4 +1,4 @@
-package com.github.apz.springsample.repository.service;
+package com.github.apz.springsample.service;
 
 import org.springframework.stereotype.Service;
 
